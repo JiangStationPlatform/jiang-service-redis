@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://104.199.166.17:8888
+      name: jiang-service-redis
+      label: master
+      profile: dev
