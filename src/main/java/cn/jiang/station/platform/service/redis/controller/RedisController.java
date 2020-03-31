@@ -24,7 +24,7 @@ public class RedisController {
             String json = String.valueOf(o);
             return json;
         }
-        return "not_ok";
+        return null;
     }
 
 }

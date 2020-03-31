@@ -72,7 +72,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>cn.jiang.station.platform.service.redis.RedisApplication</mainClass>
+                    <mainClass>cn.jiang.station.platform.service.redis.ServiceRedisApplication</mainClass>
                 </configuration>
             </plugin>
 
